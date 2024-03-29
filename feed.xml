@@ -3,7 +3,7 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-03-29T16:13:48+01:00</updated>
+    <updated>2024-03-29T17:03:22+01:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
@@ -14,11 +14,33 @@
         <author>
             <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
         </author>
+        <link href="https://newmaddog.github.io/project-6-eternal-night-3.html"/>
+        <id>https://newmaddog.github.io/project-6-eternal-night-3.html</id>
+
+        <updated>2024-03-29T16:30:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Summary In a world plunged into darkness by the insatiable appetite of an ancient malevolent deity that devours the sun, our protagonist embarks on an epic adventure to restore light to the realm. With courage as her guiding light, she traverses treacherous lands, confronting formidable&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="summary" class="align-center">Summary</h2>
+<p><em>In a world plunged into darkness by the insatiable appetite of an ancient malevolent deity that devours the sun, our protagonist embarks on an epic adventure to restore light to the realm. With courage as her guiding light, she traverses treacherous lands, confronting formidable adversaries and overcoming daunting challenges in her quest to reclaim the stolen sun.</em></p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/6/Skaermbild-2024-03-29-160924.png" alt="" width="1070" height="584" sizes="100vw" srcset="https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-160924-xs.png 300w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-160924-sm.png 480w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-160924-md.png 768w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-160924-lg.png 1024w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-160924-xl.png 1360w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-160924-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Project 6 :Eternal Night1</title>
+        <author>
+            <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
+        </author>
         <link href="https://newmaddog.github.io/project-6-eternal-night.html"/>
         <id>https://newmaddog.github.io/project-6-eternal-night.html</id>
         <media:content url="https://newmaddog.github.io/media/posts/4/Skaermbild-2024-03-29-160924.png" medium="image" />
 
-        <updated>2024-03-29T16:13:48+01:00</updated>
+        <updated>2024-03-29T16:26:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newmaddog.github.io/media/posts/4/Skaermbild-2024-03-29-160924.png" alt="" />
@@ -98,21 +120,31 @@
         <id>https://newmaddog.github.io/test.html</id>
             <category term="Me"/>
 
-        <updated>2024-03-29T14:44:19+01:00</updated>
+        <updated>2024-03-29T17:03:22+01:00</updated>
             <summary>
                 <![CDATA[
-                    Who am I? My name is Erico Leonardo Alexander Pizarro Gutierrez I am a game programmer. I am student in The Game Assembly learning about c++ langue. Hobby I like a lot of stuff but what am enjoy the most is playing video games I&hellip;
+                    Who am I? Hey, I'm Erico Leonardo Alexander Pizarro Gutierrez, and I'm into game programming. Currently, I'm studying at The Game Assembly, getting the hang of C++ language. Just trying to up my game and make some cool stuff! Hobby I possess a diverse range&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold);"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://newmaddog.github.io/media/posts/2/sp22ericopizarrogutierrez-340x425.png" alt="" width="340" height="425" sizes="100vw" srcset="https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-lg.png 1024w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xl.png 1360w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-2xl.png 1600w"></figure></span></p>
+                <figure class="post__image post__image--left"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold);"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://newmaddog.github.io/media/posts/2/sp22ericopizarrogutierrez-340x425.png" alt="" width="340" height="425" sizes="100vw" srcset="https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-lg.png 1024w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xl.png 1360w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-2xl.png 1600w"></figure></span></p>
 <p><strong>Who am I?</strong></p>
-<p class="align-left"><em>My name is Erico Leonardo Alexander Pizarro Gutierrez I am a game programmer. I am <span style="color: #02192b;">student </span>in The Game Assembly learning about c++ langue.<br></em></p>
-<p><strong>Hobby</strong></p>
-<p class="align-left"><em>I like a lot of stuff but what am enjoy the most is playing video games I play league of legends ,Tekken 7 and 8 , StreetFighter 6 and Battefield those type of game is what i enjoy the most.<br></em></p>
-<p><strong>What I did on TGE<br><br></strong><span style="text-decoration: underline;"><em>Game Project1: Viking Rush</em></span></p>
-<p><em><span style="text-decoration: underline;">Game Project2: Catdow</span></em></p>
+<p class="align-left"><em>Hey, I'm Erico Leonardo Alexander Pizarro Gutierrez, and I'm into game programming. Currently, I'm studying at The Game Assembly, getting the hang of C++ language. Just trying to up my game and make some cool stuff!</em></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p class="align-center"><strong>Hobby</strong></p>
+<p class="align-left"><em>I possess a diverse range of interests, yet among them, I derive the greatest enjoyment from engaging in video games. Specifically, I find myself particularly drawn to titles such as League of Legends, Tekken 7 and 8, Street Fighter 6, and Battlefield. These genres of games captivate me the most, offering immersive experiences that allow me to indulge in strategic gameplay, thrilling combat encounters, and the adrenaline rush of competitive action.</em></p>
+<p> </p>
+<p><strong>What I did on TGE<br></strong></p>
+<figure class="post__image post__image--right"><a href="https://www.youtube.com/watch?v=EIH1gDV8pJI&amp;ab_channel=TheGameAssembly" title="Trailer" target="_blank" rel="noopener noreferrer"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; margin-right: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://newmaddog.github.io/media/posts/2/Skaermbild-2024-03-29-164555-3.png" alt="" width="250" height="250" sizes="100vw" srcset="https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-lg.png 1024w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-xl.png 1360w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-2xl.png 1600w"></figure></a></p>
+<p> </p>
+<p><span style="text-decoration: underline;"><em>Game Project1: Viking Rush</em></span></p>
+<p> </p>
+<p><em><span style="text-decoration: underline;">Game Project2: Cat</span></em></p>
+<p><em style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;">dow</span></em></p>
 <p><em><span style="text-decoration: underline;">Project3: Magical Girl Delivery Service</span></em></p>
 <p><em><span style="text-decoration: underline;">Project4: Aeon</span></em></p>
 <p><em><span style="text-decoration: underline;">Project5: Larmet Gick 1941</span></em></p>
