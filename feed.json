@@ -10,18 +10,33 @@
     },
     "items": [
         {
+            "id": "https://newmaddog.github.io/project-6-eternal-night.html",
+            "url": "https://newmaddog.github.io/project-6-eternal-night.html",
+            "title": "Project 6 :Eternal Night",
+            "summary": "Summary In a world plunged into darkness by the insatiable appetite of an ancient malevolent deity that devours the sun, our protagonist embarks on an epic adventure to restore light to the realm. With courage as her guiding light, she traverses treacherous lands, confronting formidable&hellip;",
+            "content_html": "\n    <h2 id=\"summary\" class=\"align-center\">\n      Summary\n    </h2>\n\n  <p>\n    In a world plunged into darkness by the insatiable appetite of an ancient malevolent deity that devours the sun, our protagonist embarks on an epic adventure to restore light to the realm. With courage as her guiding light, she traverses treacherous lands, confronting formidable adversaries and overcoming daunting challenges in her quest to reclaim the stolen sun.<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://www.youtube.com/watch?v=HdQCWXh3XXU&ab_channel=Adieu\" target=\"_blank\">\n        <img loading=\"lazy\" src=\"https://newmaddog.github.io/media/posts/4/Skaermbild-2024-03-29-161305.png\" height=\"530\" width=\"943\" alt=\"\"  sizes=\"100vw\" srcset=\"https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-xs.png 300w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-sm.png 480w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-md.png 768w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-lg.png 1024w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-xl.png 1360w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-2xl.png 1600w\">\n      </a>\n      \n    </figure>\n\n    <h2 id=\"contribution\" class=\"align-center\">\n      Contribution\n    </h2>\n\n  <p>\n    \n  </p>",
+            "image": "https://newmaddog.github.io/media/posts/4/Skaermbild-2024-03-29-160924.png",
+            "author": {
+                "name": "Erico Leonardo Alexander Pizarro Gutierrez"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-29T15:45:34+01:00",
+            "date_modified": "2024-03-29T16:13:48+01:00"
+        },
+        {
             "id": "https://newmaddog.github.io/projekt-1.html",
             "url": "https://newmaddog.github.io/projekt-1.html",
             "title": "Project 7 Snabb Grabb",
-            "summary": "Contribution Work with making some Script to our engine for now it can track how many Enemies is on the scene",
-            "content_html": "\n    <h1 id=\"contribution\" class=\"align-center\">\n      Contribution\n    </h1>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://newmaddog.github.io/media/posts/3/Skaermbild-2024-01-24-174001.png\" height=\"980\" width=\"1623\" alt=\"\"  sizes=\"100vw\" srcset=\"https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xs.png 300w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-sm.png 480w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-md.png 768w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-lg.png 1024w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xl.png 1360w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    Work with making some Script to our engine for now it can track how many Enemies is on the scene\n  </p>\n\n  <p>\n    \n  </p>",
+            "summary": "Contribution Work with making some Script to our engine it can communicate with scene and could make some impact to the scene. The system use Imgui so it could display a connect some nodes with each other Develop a script to integrate seamlessly with our&hellip;",
+            "content_html": "\n    <h1 id=\"contribution\" class=\"align-center\">\n      Contribution\n    </h1>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://newmaddog.github.io/media/posts/3/Skaermbild-2024-01-24-174001.png\" height=\"980\" width=\"1623\" alt=\"\"  sizes=\"100vw\" srcset=\"https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xs.png 300w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-sm.png 480w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-md.png 768w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-lg.png 1024w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xl.png 1360w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    Work with making some Script to our engine it can communicate with scene and could make some impact to the scene. The system use Imgui so it could display  a connect some nodes with each other \n<br>Develop a script to integrate seamlessly with our engine, enabling effective communication with scenes and facilitating impactful changes within them. Our system utilizes Imgui, offering the capability to visually represent nodes and establish connections between them.\n<br>\n<br>Enhance our engine by crafting a script that enables dynamic interaction with scenes, empowering users to manipulate and influence various elements seamlessly. Leveraging Imgui's visualization capabilities, the script will facilitate the creation, organization, and connection of nodes within the scene, fostering a more intuitive and efficient workflow.\n  </p>",
             "author": {
                 "name": "Erico Leonardo Alexander Pizarro Gutierrez"
             },
             "tags": [
             ],
             "date_published": "2024-02-28T13:47:32+01:00",
-            "date_modified": "2024-03-29T15:18:25+01:00"
+            "date_modified": "2024-03-29T15:37:00+01:00"
         },
         {
             "id": "https://newmaddog.github.io/test.html",

@@ -3,12 +3,57 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-03-29T15:18:25+01:00</updated>
+    <updated>2024-03-29T16:13:48+01:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
     <id>https://newmaddog.github.io</id>
 
+    <entry>
+        <title>Project 6 :Eternal Night</title>
+        <author>
+            <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
+        </author>
+        <link href="https://newmaddog.github.io/project-6-eternal-night.html"/>
+        <id>https://newmaddog.github.io/project-6-eternal-night.html</id>
+        <media:content url="https://newmaddog.github.io/media/posts/4/Skaermbild-2024-03-29-160924.png" medium="image" />
+
+        <updated>2024-03-29T16:13:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://newmaddog.github.io/media/posts/4/Skaermbild-2024-03-29-160924.png" alt="" />
+                    Summary In a world plunged into darkness by the insatiable appetite of an ancient malevolent deity that devours the sun, our protagonist embarks on an epic adventure to restore light to the realm. With courage as her guiding light, she traverses treacherous lands, confronting formidable&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://newmaddog.github.io/media/posts/4/Skaermbild-2024-03-29-160924.png" class="type:primaryImage" alt="" /></p>
+                
+    <h2 id="summary" class="align-center">
+      Summary
+    </h2>
+
+  <p>
+    In a world plunged into darkness by the insatiable appetite of an ancient malevolent deity that devours the sun, our protagonist embarks on an epic adventure to restore light to the realm. With courage as her guiding light, she traverses treacherous lands, confronting formidable adversaries and overcoming daunting challenges in her quest to reclaim the stolen sun.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <a href="https://www.youtube.com/watch?v=HdQCWXh3XXU&ab_channel=Adieu" target="_blank">
+        <img loading="lazy" src="https://newmaddog.github.io/media/posts/4/Skaermbild-2024-03-29-161305.png" height="530" width="943" alt=""  sizes="100vw" srcset="https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-xs.png 300w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-sm.png 480w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-md.png 768w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-lg.png 1024w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-xl.png 1360w ,https://newmaddog.github.io/media/posts/4/responsive/Skaermbild-2024-03-29-161305-2xl.png 1600w">
+      </a>
+      
+    </figure>
+
+    <h2 id="contribution" class="align-center">
+      Contribution
+    </h2>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Project 7 Snabb Grabb</title>
         <author>
@@ -17,10 +62,10 @@
         <link href="https://newmaddog.github.io/projekt-1.html"/>
         <id>https://newmaddog.github.io/projekt-1.html</id>
 
-        <updated>2024-03-29T15:18:25+01:00</updated>
+        <updated>2024-03-29T15:37:00+01:00</updated>
             <summary>
                 <![CDATA[
-                    Contribution Work with making some Script to our engine for now it can track how many Enemies is on the scene
+                    Contribution Work with making some Script to our engine it can communicate with scene and could make some impact to the scene. The system use Imgui so it could display a connect some nodes with each other Develop a script to integrate seamlessly with our&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -36,11 +81,10 @@
     </figure>
 
   <p>
-    Work with making some Script to our engine for now it can track how many Enemies is on the scene
-  </p>
-
-  <p>
-    
+    Work with making some Script to our engine it can communicate with scene and could make some impact to the scene. The system use Imgui so it could display  a connect some nodes with each other 
+<br>Develop a script to integrate seamlessly with our engine, enabling effective communication with scenes and facilitating impactful changes within them. Our system utilizes Imgui, offering the capability to visually represent nodes and establish connections between them.
+<br>
+<br>Enhance our engine by crafting a script that enables dynamic interaction with scenes, empowering users to manipulate and influence various elements seamlessly. Leveraging Imgui's visualization capabilities, the script will facilitate the creation, organization, and connection of nodes within the scene, fostering a more intuitive and efficient workflow.
   </p>
             ]]>
         </content>
