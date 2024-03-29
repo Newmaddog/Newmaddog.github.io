@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>GameDev</title>
+    <link href="https://newmaddog.github.io/feed.xml" rel="self" />
+    <link href="https://newmaddog.github.io" />
+    <updated>2024-03-29T14:55:54+01:00</updated>
+    <author>
+        <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
+    </author>
+    <id>https://newmaddog.github.io</id>
+
+    <entry>
+        <title>Project 7</title>
+        <author>
+            <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
+        </author>
+        <link href="https://newmaddog.github.io/projekt-1.html"/>
+        <id>https://newmaddog.github.io/projekt-1.html</id>
+
+        <updated>2024-03-29T14:55:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Work with making some Script to our engine for now it can track how many Enemies is on the scene
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Work with making some Script to our engine for now it can track how many Enemies is on the scene
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://newmaddog.github.io/media/posts/3/Skaermbild-2024-01-24-174001.png" height="980" width="1623" alt=""  sizes="100vw" srcset="https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xs.png 300w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-sm.png 480w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-md.png 768w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-lg.png 1024w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xl.png 1360w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-2xl.png 1600w">
+      
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
+        </author>
+        <link href="https://newmaddog.github.io/test.html"/>
+        <id>https://newmaddog.github.io/test.html</id>
+            <category term="Me"/>
+
+        <updated>2024-03-29T14:44:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Who am I? My name is Erico Leonardo Alexander Pizarro Gutierrez I am a game programmer. I am student in The Game Assembly learning about c++ langue. Hobby I like a lot of stuff but what am enjoy the most is playing video games I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold);"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://newmaddog.github.io/media/posts/2/sp22ericopizarrogutierrez-340x425.png" alt="" width="340" height="425" sizes="100vw" srcset="https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-lg.png 1024w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xl.png 1360w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-2xl.png 1600w"></figure></span></p>
+<p><strong>Who am I?</strong></p>
+<p class="align-left"><em>My name is Erico Leonardo Alexander Pizarro Gutierrez I am a game programmer. I am <span style="color: #02192b;">student </span>in The Game Assembly learning about c++ langue.<br></em></p>
+<p><strong>Hobby</strong></p>
+<p class="align-left"><em>I like a lot of stuff but what am enjoy the most is playing video games I play league of legends ,Tekken 7 and 8 , StreetFighter 6 and Battefield those type of game is what i enjoy the most.<br></em></p>
+<p><strong>What I did on TGE<br><br></strong><span style="text-decoration: underline;"><em>Game Project1: Viking Rush</em></span></p>
+<p><em><span style="text-decoration: underline;">Game Project2: Catdow</span></em></p>
+<p><em><span style="text-decoration: underline;">Project3: Magical Girl Delivery Service</span></em></p>
+<p><em><span style="text-decoration: underline;">Project4: Aeon</span></em></p>
+<p><em><span style="text-decoration: underline;">Project5: Larmet Gick 1941</span></em></p>
+<p><em><span style="text-decoration: underline;">Project6: Eternal Night</span></em></p>
+<p><em><span style="text-decoration: underline;"><a href="https://newmaddog.github.io/projekt-1.html">Project7: Snabb Grabb</a></span></em></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
