@@ -3,37 +3,41 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-03-29T14:55:54+01:00</updated>
+    <updated>2024-03-29T15:17:19+01:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
     <id>https://newmaddog.github.io</id>
 
     <entry>
-        <title>Project 7</title>
+        <title>Project 7 Snabb Grabb</title>
         <author>
             <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
         </author>
         <link href="https://newmaddog.github.io/projekt-1.html"/>
         <id>https://newmaddog.github.io/projekt-1.html</id>
 
-        <updated>2024-03-29T14:55:54+01:00</updated>
+        <updated>2024-03-29T15:17:19+01:00</updated>
             <summary>
                 <![CDATA[
-                    Work with making some Script to our engine for now it can track how many Enemies is on the scene
+                    Contribution Work with making some Script to our engine for now it can track how many Enemies is on the scene
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-  <p>
-    Work with making some Script to our engine for now it can track how many Enemies is on the scene
-  </p>
+    <h1 id="contribution" class="align-center">
+      Contribution
+    </h1>
 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://newmaddog.github.io/media/posts/3/Skaermbild-2024-01-24-174001.png" height="980" width="1623" alt=""  sizes="100vw" srcset="https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xs.png 300w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-sm.png 480w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-md.png 768w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-lg.png 1024w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xl.png 1360w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-2xl.png 1600w">
       
     </figure>
+
+  <p>
+    Work with making some Script to our engine for now it can track how many Enemies is on the scene
+  </p>
 
   <p>
     

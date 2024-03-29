@@ -12,16 +12,16 @@
         {
             "id": "https://newmaddog.github.io/projekt-1.html",
             "url": "https://newmaddog.github.io/projekt-1.html",
-            "title": "Project 7",
-            "summary": "Work with making some Script to our engine for now it can track how many Enemies is on the scene",
-            "content_html": "\n  <p>\n    Work with making some Script to our engine for now it can track how many Enemies is on the scene\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://newmaddog.github.io/media/posts/3/Skaermbild-2024-01-24-174001.png\" height=\"980\" width=\"1623\" alt=\"\"  sizes=\"100vw\" srcset=\"https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xs.png 300w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-sm.png 480w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-md.png 768w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-lg.png 1024w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xl.png 1360w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "title": "Project 7 Snabb Grabb",
+            "summary": "Contribution Work with making some Script to our engine for now it can track how many Enemies is on the scene",
+            "content_html": "\n    <h1 id=\"contribution\" class=\"align-center\">\n      Contribution\n    </h1>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://newmaddog.github.io/media/posts/3/Skaermbild-2024-01-24-174001.png\" height=\"980\" width=\"1623\" alt=\"\"  sizes=\"100vw\" srcset=\"https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xs.png 300w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-sm.png 480w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-md.png 768w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-lg.png 1024w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xl.png 1360w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    Work with making some Script to our engine for now it can track how many Enemies is on the scene\n  </p>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Erico Leonardo Alexander Pizarro Gutierrez"
             },
             "tags": [
             ],
             "date_published": "2024-02-28T13:47:32+01:00",
-            "date_modified": "2024-03-29T14:55:54+01:00"
+            "date_modified": "2024-03-29T15:17:19+01:00"
         },
         {
             "id": "https://newmaddog.github.io/test.html",
