@@ -3,7 +3,7 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-03-29T17:09:18+01:00</updated>
+    <updated>2024-04-02T10:44:31+02:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
@@ -125,7 +125,7 @@
         <id>https://newmaddog.github.io/test.html</id>
             <category term="Me"/>
 
-        <updated>2024-03-29T17:03:22+01:00</updated>
+        <updated>2024-04-02T10:44:31+02:00</updated>
             <summary>
                 <![CDATA[
                     Who am I? Hey, I'm Erico Leonardo Alexander Pizarro Gutierrez, and I'm into game programming. Currently, I'm studying at The Game Assembly, getting the hang of C++ language. Just trying to up my game and make some cool stuff! Hobby I possess a diverse range&hellip;
@@ -148,8 +148,7 @@
 <p> </p>
 <p><span style="text-decoration: underline;"><em>Game Project1: Viking Rush</em></span></p>
 <p> </p>
-<p><em><span style="text-decoration: underline;">Game Project2: Cat</span></em></p>
-<p><em style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;">dow</span></em></p>
+<p><em><span style="text-decoration: underline;">Game Project2: Cat</span></em><em style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;">dow</span></em></p>
 <p><em><span style="text-decoration: underline;">Project3: Magical Girl Delivery Service</span></em></p>
 <p><em><span style="text-decoration: underline;">Project4: Aeon</span></em></p>
 <p><em><span style="text-decoration: underline;">Project5: Larmet Gick 1941</span></em></p>
