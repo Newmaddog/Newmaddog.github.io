@@ -3,37 +3,152 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-04-09T17:34:05+02:00</updated>
+    <updated>2024-04-09T22:13:38+02:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
     <id>https://newmaddog.github.io</id>
 
     <entry>
-        <title>Project5: Larmet Gick 1941</title>
+        <title>AI Specialisation</title>
+        <author>
+            <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
+        </author>
+        <link href="https://newmaddog.github.io/ai-specialisation.html"/>
+        <id>https://newmaddog.github.io/ai-specialisation.html</id>
+        <media:content url="https://newmaddog.github.io/media/posts/9/Skaermbild-2024-04-09-205152.png" medium="image" />
+
+        <updated>2024-04-09T20:52:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://newmaddog.github.io/media/posts/9/Skaermbild-2024-04-09-205152.png" alt="" />
+                    What type of AI? In my Specialization, I have created a squad&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://newmaddog.github.io/media/posts/9/Skaermbild-2024-04-09-205152.png" class="type:primaryImage" alt="" /></p>
+                <h1 class="align-center">What type of AI?</h1>
+<p> </p>
+<p>In my Specialization, I have created a squad that works together to win against the player. There are four types of AI: Medic, Leader, Decoy, and Flanker, each with their own role to play.</p>
+<p> </p>
+<table class="align-center" style="border-collapse: collapse; width: 560px; height: 350px;" border="0">
+<tbody>
+<tr style="height: 50.3594px;">
+<td style="width: 100%; height: 50%;"><figure class="post__image"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/Leader.png" alt="" width="50" height="50" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/9/responsive/Leader-xs.png 300w ,https://newmaddog.github.io/media/posts/9/responsive/Leader-sm.png 480w ,https://newmaddog.github.io/media/posts/9/responsive/Leader-md.png 768w ,https://newmaddog.github.io/media/posts/9/responsive/Leader-lg.png 1024w"></figure></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 100%;"><strong>Leader</strong></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 100%;">The Leader holds the team together</td>
+</tr>
+</tbody>
+</table>
+<table class="align-center" style="border-collapse: collapse; width: 560px; height: 350px;" border="0">
+<tbody>
+<tr style="height: 50.3594px;">
+<td style="width: 100%;" scope="colgroup"><figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/Medic.png" alt="" width="50" height="50" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/9/responsive/Medic-xs.png 300w ,https://newmaddog.github.io/media/posts/9/responsive/Medic-sm.png 480w ,https://newmaddog.github.io/media/posts/9/responsive/Medic-md.png 768w ,https://newmaddog.github.io/media/posts/9/responsive/Medic-lg.png 1024w"></figure></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 100%;"><strong>Medic</strong></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 100%;">The Medic focuses on keeping his teammates alive</td>
+</tr>
+</tbody>
+</table>
+<table class=" align-center" style="border-collapse: collapse; width: 560px; height: 350px; border-style: none;" border="0">
+<tbody>
+<tr style="height: 50.3594px;">
+<td style="width: 100%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/Decoy.png" alt="" width="50" height="50" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/9/responsive/Decoy-xs.png 300w ,https://newmaddog.github.io/media/posts/9/responsive/Decoy-sm.png 480w ,https://newmaddog.github.io/media/posts/9/responsive/Decoy-md.png 768w ,https://newmaddog.github.io/media/posts/9/responsive/Decoy-lg.png 1024w"></figure></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 100%;"><strong>Decoy</strong></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 100%;">The Decoy distracts and diverts the player's attention</td>
+</tr>
+</tbody>
+</table>
+<table class="align-center" style="border-collapse: collapse; width: 560px; height: 350px; border-style: none;" border="0">
+<tbody>
+<tr style="height: 76px;">
+<td style="width: 100%; height: 76px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/Flanker.png" alt="" width="50" height="50" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/9/responsive/Flanker-xs.png 300w ,https://newmaddog.github.io/media/posts/9/responsive/Flanker-sm.png 480w ,https://newmaddog.github.io/media/posts/9/responsive/Flanker-md.png 768w ,https://newmaddog.github.io/media/posts/9/responsive/Flanker-lg.png 1024w"></figure></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 100%; height: 50.3594px;"><strong>Flanker</strong></td>
+</tr>
+<tr style="height: 107.953px;">
+<td style="width: 100%; height: 107.953px;">The Flanker sneaks behind the player to attack from behind</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Project 8 : Coming soon</title>
+        <author>
+            <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
+        </author>
+        <link href="https://newmaddog.github.io/project.html"/>
+        <id>https://newmaddog.github.io/project.html</id>
+        <media:content url="https://newmaddog.github.io/media/posts/8/ComingSoon-2.png" medium="image" />
+
+        <updated>2024-04-09T19:07:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://newmaddog.github.io/media/posts/8/ComingSoon-2.png" alt="" />
+                    Summary
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://newmaddog.github.io/media/posts/8/ComingSoon-2.png" class="type:primaryImage" alt="" /></p>
+                <h2 id="summary" class="align-center">Summary</h2>
+<p> </p>
+<figure class="post__image post__image--center" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/ComingSoon.png" alt="" width="1000" height="483" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/ComingSoon-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/ComingSoon-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/ComingSoon-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/ComingSoon-lg.png 1024w"></figure>
+<figcaption ></figcaption>
+</figure>
+<h2 id="contribution" class="align-center">Contribution</h2>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Project 5: Larmet Gick 1941</title>
         <author>
             <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
         </author>
         <link href="https://newmaddog.github.io/project5-larmet-gick-1941.html"/>
         <id>https://newmaddog.github.io/project5-larmet-gick-1941.html</id>
-        <media:content url="https://newmaddog.github.io/media/posts/7/Erico.png" medium="image" />
+        <media:content url="https://newmaddog.github.io/media/posts/7/Skaermbild-2024-04-09-174432.png" medium="image" />
 
         <updated>2024-04-09T16:14:37+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://newmaddog.github.io/media/posts/7/Erico.png" alt="" />
-                    Caption Summary The game is about a person stuck
+                        <img src="https://newmaddog.github.io/media/posts/7/Skaermbild-2024-04-09-174432.png" alt="" />
+                    Summary In the midst of chaos, an explosion has occurred, leaving the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://newmaddog.github.io/media/posts/7/Erico.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://newmaddog.github.io/media/posts/7/Skaermbild-2024-04-09-174432.png" class="type:primaryImage" alt="" /></p>
                 <figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/7/screen-capture-ezgif.com-optimize.gif" alt="" width="600" height="338"></figure>
-<figcaption >Caption</figcaption>
+<figcaption ></figcaption>
 </figure>
 <h1 class="align-center">Summary</h1>
-<p>The game is about a person stuck </p>
-<p> </p>
+<p><span class="md svelte-1k4ye9u chatbot prose">In the midst of chaos, an explosion has occurred, leaving the way out impassable. <br>The challenge now lies in navigating through the cognitive tests designed for lobotomized patients to urgently signal for help and escape this dangerous situation.</span></p>
+<h1 class="align-center">Contribution</h1>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://newmaddog.github.io/media/posts/7/gallery/Imgui-ezgif.com-optimize.gif" data-size="600x348"><img loading="lazy" src="https://newmaddog.github.io/media/posts/7/gallery/Imgui-ezgif.com-optimize.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://newmaddog.github.io/media/posts/7/gallery/p8pRyeX-ezgif.com-video-to-gif-converter-2.gif" data-size="600x327"><img loading="lazy" src="https://newmaddog.github.io/media/posts/7/gallery/p8pRyeX-ezgif.com-video-to-gif-converter-2.gif" alt=""></a></figure>
+</div></div>
+<p>In this project, the focus was to create our own engine. My primary task was installing and learning IMGUI to incorporate it into our game. With this installation, we learned how to use it effectively, which helped us greatly in debugging. Simultaneously, we also utilized it for our designers to modify various elements such as speed and position.<br><br>When I learned how to use IMGUI, my focus shifted to the door mechanism to prevent the player from passing through it, forcing them to solve a puzzle. I then implemented a feature using IMGUI that allowed the designer to adjust the door's opening speed and distance.</p>
             ]]>
         </content>
     </entry>
@@ -107,7 +222,7 @@
         </author>
         <link href="https://newmaddog.github.io/test.html"/>
         <id>https://newmaddog.github.io/test.html</id>
-            <category term="Me"/>
+            <category term="About me"/>
 
         <updated>2024-02-28T13:41:14+01:00</updated>
             <summary>
