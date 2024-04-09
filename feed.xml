@@ -3,7 +3,7 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-04-09T16:15:22+02:00</updated>
+    <updated>2024-04-09T17:34:05+02:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
@@ -16,10 +16,26 @@
         </author>
         <link href="https://newmaddog.github.io/project5-larmet-gick-1941.html"/>
         <id>https://newmaddog.github.io/project5-larmet-gick-1941.html</id>
+        <media:content url="https://newmaddog.github.io/media/posts/7/Erico.png" medium="image" />
 
         <updated>2024-04-09T16:14:37+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://newmaddog.github.io/media/posts/7/Erico.png" alt="" />
+                    Caption Summary The game is about a person stuck
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://newmaddog.github.io/media/posts/7/Erico.png" class="type:primaryImage" alt="" /></p>
+                <figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/7/screen-capture-ezgif.com-optimize.gif" alt="" width="600" height="338"></figure>
+<figcaption >Caption</figcaption>
+</figure>
+<h1 class="align-center">Summary</h1>
+<p>The game is about a person stuck </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Project 6 :Eternal Night</title>
@@ -34,7 +50,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://newmaddog.github.io/media/posts/6/Skaermbild-2024-03-29-160924-2.png" alt="" />
-                    Summary In a world plunged into darkness by the insatiable appetite of an ancient malevolent deity that devours the sun, our protagonist embarks on an epic adventure to restore light to the realm. With courage as her guiding light, she traverses treacherous lands, confronting formidable&hellip;
+                    Summary In a world plunged into darkness by the insatiable appetite of&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -42,7 +58,7 @@
                     <p><img src="https://newmaddog.github.io/media/posts/6/Skaermbild-2024-03-29-160924-2.png" class="type:primaryImage" alt="" /></p>
                 <h2 id="summary" class="align-center">Summary</h2>
 <p><em>In a world plunged into darkness by the insatiable appetite of an ancient malevolent deity that devours the sun, our protagonist embarks on an epic adventure to restore light to the realm. With courage as her guiding light, she traverses treacherous lands, confronting formidable adversaries and overcoming daunting challenges in her quest to reclaim the stolen sun.</em></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/6/Skaermbild-2024-03-29-161305.png" alt="" width="943" height="530" sizes="100vw" srcset="https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-xs.png 300w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-sm.png 480w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-md.png 768w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-lg.png 1024w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-xl.png 1360w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-2xl.png 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/6/Skaermbild-2024-03-29-161305.png" alt="" width="943" height="530" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-xs.png 300w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-sm.png 480w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-md.png 768w ,https://newmaddog.github.io/media/posts/6/responsive/Skaermbild-2024-03-29-161305-lg.png 1024w"></figure>
 <h2 id="contribution" class="align-center">Contribution</h2>
 <p> </p>
 <p> </p>
@@ -60,7 +76,7 @@
         <updated>2024-02-28T13:47:32+01:00</updated>
             <summary>
                 <![CDATA[
-                    Contribution Work with making some Script to our engine it can communicate with scene and could make some impact to the scene. The system use Imgui so it could display a connect some nodes with each other Develop a script to integrate seamlessly with our&hellip;
+                    Contribution Work with making some Script to our engine it can communicate&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -71,7 +87,7 @@
     </h1>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://newmaddog.github.io/media/posts/3/Skaermbild-2024-01-24-174001.png" height="980" width="1623" alt=""  sizes="100vw" srcset="https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xs.png 300w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-sm.png 480w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-md.png 768w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-lg.png 1024w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xl.png 1360w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-2xl.png 1600w">
+      <img loading="lazy" src="https://newmaddog.github.io/media/posts/3/Skaermbild-2024-01-24-174001.png" height="980" width="1623" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-xs.png 300w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-sm.png 480w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-md.png 768w ,https://newmaddog.github.io/media/posts/3/responsive/Skaermbild-2024-01-24-174001-lg.png 1024w">
       
     </figure>
 
@@ -96,12 +112,12 @@
         <updated>2024-02-28T13:41:14+01:00</updated>
             <summary>
                 <![CDATA[
-                    Who am I? Hey, I'm Erico Leonardo Alexander Pizarro Gutierrez, and I'm into game programming. Currently, I'm studying at The Game Assembly, getting the hang of C++ language. Just trying to up my game and make some cool stuff! Hobby I possess a diverse range&hellip;
+                    Who am I? Hey, I'm Erico Leonardo Alexander Pizarro Gutierrez, and I'm&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--left"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold);"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://newmaddog.github.io/media/posts/2/sp22ericopizarrogutierrez-340x425.png" alt="" width="340" height="425" sizes="100vw" srcset="https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-lg.png 1024w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xl.png 1360w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-2xl.png 1600w"></figure></span></p>
+                <figure class="post__image post__image--left"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold);"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://newmaddog.github.io/media/posts/2/sp22ericopizarrogutierrez-340x425.png" alt="" width="340" height="425" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/sp22ericopizarrogutierrez-340x425-lg.png 1024w"></figure></span></p>
 <p><strong>Who am I?</strong></p>
 <p class="align-left"><em>Hey, I'm Erico Leonardo Alexander Pizarro Gutierrez, and I'm into game programming. Currently, I'm studying at The Game Assembly, getting the hang of C++ language. Just trying to up my game and make some cool stuff!</em></p>
 <p> </p>
@@ -112,7 +128,7 @@
 <p class="align-left"><em>I possess a diverse range of interests, yet among them, I derive the greatest enjoyment from engaging in video games. Specifically, I find myself particularly drawn to titles such as League of Legends, Tekken 7 and 8, Street Fighter 6, and Battlefield. These genres of games captivate me the most, offering immersive experiences that allow me to indulge in strategic gameplay, thrilling combat encounters, and the adrenaline rush of competitive action.</em></p>
 <p> </p>
 <p><strong>What I did on TGE<br></strong></p>
-<figure class="post__image post__image--right"><a href="https://www.youtube.com/watch?v=EIH1gDV8pJI&amp;ab_channel=TheGameAssembly" title="Trailer" target="_blank" rel="noopener noreferrer"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; margin-right: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://newmaddog.github.io/media/posts/2/Skaermbild-2024-03-29-164555-3.png" alt="" width="250" height="250" sizes="100vw" srcset="https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-lg.png 1024w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-xl.png 1360w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-2xl.png 1600w"></figure></a></p>
+<figure class="post__image post__image--right"><a href="https://www.youtube.com/watch?v=EIH1gDV8pJI&amp;ab_channel=TheGameAssembly" title="Trailer" target="_blank" rel="noopener noreferrer"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; margin-right: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://newmaddog.github.io/media/posts/2/Skaermbild-2024-03-29-164555-3.png" alt="" width="250" height="250" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/Skaermbild-2024-03-29-164555-3-lg.png 1024w"></figure></a></p>
 <p> </p>
 <p><span style="text-decoration: underline;"><em>Game Project1: Viking Rush</em></span></p>
 <p> </p>
