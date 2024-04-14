@@ -3,12 +3,50 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-04-10T11:20:50+02:00</updated>
+    <updated>2024-04-14T20:50:30+02:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
     <id>https://newmaddog.github.io</id>
 
+    <entry>
+        <title>Project 7: Snabb Grabb</title>
+        <author>
+            <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
+        </author>
+        <link href="https://newmaddog.github.io/project-7-snabb-grabb.html"/>
+        <id>https://newmaddog.github.io/project-7-snabb-grabb.html</id>
+        <media:content url="https://newmaddog.github.io/media/posts/10/SP7png-2.png" medium="image" />
+
+        <updated>2024-04-14T18:04:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://newmaddog.github.io/media/posts/10/SP7png-2.png" alt="" />
+                    Summary The game is a fast-paced, action-oriented experience that draws inspiration from&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://newmaddog.github.io/media/posts/10/SP7png-2.png" class="type:primaryImage" alt="" /></p>
+                <h2 id="summary" class="align-center">Summary</h2>
+<figure class="post__image post__image--center"><br>The game is a fast-paced, action-oriented experience that draws inspiration from the popular title Neon White. As the player, you will navigate through levels, swiftly eliminating all enemies in your path.<br><br>The core gameplay mechanic revolves around collecting cards dropped by defeated enemies. These cards can be used in two ways - you can either fire them as projectiles to take out foes, or you can spend the card entirely to activate its unique ability.<br><br>The enemy types you'll encounter include:<br><br>1. Turrets - These stationary threats will immediately open fire on you when you come into their line of sight.<br><br>2. Balloons - These passive enemies do not attack, but can be used as platforms to reach higher areas or evade other dangers.<br><br>The emphasis is on maintaining a breakneck pace while strategically utilising the collected cards to dispatch your opponents and progress through the levels. This blend of rapid movement and tactical card usage is the driving force behind the game's engaging and thrilling gameplay loop.<br><br><img loading="lazy"  src="https://newmaddog.github.io/media/posts/10/SP7png.png" alt="" width="1072" height="561" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/10/responsive/SP7png-xs.png 300w ,https://newmaddog.github.io/media/posts/10/responsive/SP7png-sm.png 480w ,https://newmaddog.github.io/media/posts/10/responsive/SP7png-md.png 768w ,https://newmaddog.github.io/media/posts/10/responsive/SP7png-lg.png 1024w"></figure><br><br><br></p>
+<h1 class="align-center"><strong>Contribution</strong></h1>
+<h2 class="align-center">Enemies</h2>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/10/TurretTest-2.gif" alt="" width="600" height="337"></figure><span class="md svelte-ftv0x7 chatbot">The turret enemies utilise a behaviour tree system. When the player comes within the turret's detection range, it will rotate to face the player and open fire, shooting projectiles at the player.</span></p>
+<p> </p>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/10/Turrets.png" alt="" width="799" height="337" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/10/responsive/Turrets-xs.png 300w ,https://newmaddog.github.io/media/posts/10/responsive/Turrets-sm.png 480w ,https://newmaddog.github.io/media/posts/10/responsive/Turrets-md.png 768w ,https://newmaddog.github.io/media/posts/10/responsive/Turrets-lg.png 1024w"></figure><span class="md svelte-ftv0x7 chatbot">The turrets have 4 different visual skins, each indicating the type of card the player will receive when the turret is destroyed. The level design can be configured to determine which specific card type a defeated turret will drop.</span></p>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/10/balloon.gif" alt="" width="600" height="338"></figure>
+<p><span class="md svelte-ftv0x7 chatbot">Balloons are another type of enemy. They don't do much, but the player can jump on them to get an extra boost and reach places they couldn't access on their own. <br>Like the turret enemy, the balloon enemy also has 4 different visual skins, and each one drops a specific card when destroyed.</span></p>
+<h2 class="align-center">Door</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/10/Door.gif" alt="" width="800" height="450"></figure>
+<p><span class="md svelte-ftv0x7 chatbot">I implemented a door system using PhysX. The door has two different states. Normally, the door is in a non-destructible state. However, when the player dashes through the door or shoots it, the door switches to a destructible state. In the destructible state, the door breaks apart into 20 individual pieces, and the physics simulation is played out on those pieces.</span></p>
+<h2 class="align-center">Script</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/10/ScriptTest.gif" alt="" width="800" height="450"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>AI Specialisation</title>
         <author>
@@ -153,7 +191,7 @@
         </content>
     </entry>
     <entry>
-        <title>Project 6 :Eternal Night</title>
+        <title>Project 6: Eternal Night</title>
         <author>
             <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
         </author>
@@ -255,7 +293,7 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/2/SP6-2.png" alt="" width="311" height="164" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/2/responsive/SP6-2-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/SP6-2-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/SP6-2-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/SP6-2-lg.png 1024w"></figure>
 <p class="align-center"><a href="https://newmaddog.github.io/project-6-eternal-night-3.html"></a><a href="https://newmaddog.github.io/project-6-eternal-night-3.html"><span style="text-decoration: underline;"><strong><em>Game Project6: Eternal Night</em></strong></span><span style="text-align: right; color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span></a></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/2/SP7-2.png" alt="" width="311" height="163" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/2/responsive/SP7-2-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/SP7-2-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/SP7-2-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/SP7-2-lg.png 1024w"></figure>
-<p class="align-center"><span style="text-decoration: underline;"><strong><em><a href="https://newmaddog.github.io/projekt-1.html">Project7: Snabb Grabb</a></em></strong></span></p>
+<p class="align-center"><span style="text-decoration: underline;"><strong><em><a href="https://newmaddog.github.io/project-7-snabb-grabb.html">Project7: Snabb Grabb</a></em></strong></span></p>
             ]]>
         </content>
     </entry>
