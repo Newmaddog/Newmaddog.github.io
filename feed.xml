@@ -3,7 +3,7 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-04-14T20:50:30+02:00</updated>
+    <updated>2024-04-18T01:29:43+02:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
@@ -69,7 +69,9 @@
                 <h1 class="align-center">What type of AI?</h1>
 <p> </p>
 <p>In my Specialization, I have created a squad that works together to win against the player. There are four types of AI: Medic, Leader, Decoy, and Flanker, each with their own role to play.</p>
-<p> </p>
+<h1 class="align-center"><strong>Behavior Trees</strong></h1>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/Behavior-tree.png" alt="" width="267" height="333" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/9/responsive/Behavior-tree-xs.png 300w ,https://newmaddog.github.io/media/posts/9/responsive/Behavior-tree-sm.png 480w ,https://newmaddog.github.io/media/posts/9/responsive/Behavior-tree-md.png 768w ,https://newmaddog.github.io/media/posts/9/responsive/Behavior-tree-lg.png 1024w"></figure>
+<p>I have chosen behavior trees as the decision-making system among the three available approaches (behavior trees, decision trees, and state machines). My preference for behavior trees stems from the greater control they offer in determining how the AI agent prioritizes its decisions. Furthermore, behavior trees enhance flexibility in the decision-making process by accommodating both ordered and selected decision-making scenarios.</p>
 <table class="align-center" style="border-collapse: collapse; width: 560px; height: 350px;" border="0">
 <tbody>
 <tr style="height: 50.3594px;">
@@ -96,6 +98,9 @@
 </tr>
 </tbody>
 </table>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/MedicHeal.gif" alt="" width="600" height="349"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/MedicCondition-4.png" alt="" width="720" height="498" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/9/responsive/MedicCondition-4-xs.png 300w ,https://newmaddog.github.io/media/posts/9/responsive/MedicCondition-4-sm.png 480w ,https://newmaddog.github.io/media/posts/9/responsive/MedicCondition-4-md.png 768w ,https://newmaddog.github.io/media/posts/9/responsive/MedicCondition-4-lg.png 1024w"></figure><br>The Medic AI will scan the battlefield to locate any teammate, whether the Decoy or the Leader, with less than 35% of their maximum health remaining. Once a wounded ally is detected, the Medic will move to their position and administer the necessary medical care to restore their combat readiness.</p>
 <table class=" align-center" style="border-collapse: collapse; width: 560px; height: 350px; border-style: none;" border="0">
 <tbody>
 <tr style="height: 50.3594px;">
@@ -109,6 +114,8 @@
 </tr>
 </tbody>
 </table>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/DecoyDefend.gif" alt="" width="600" height="349"></figure><br>The decoy roll is to help the teammate with taking damage and also shoot a lot.<br>Decoy takes players attention so the Flanker can go around wtihout the player notice it.<br>The decoy also helps the medic, if the medic has below 50% health it will begin shooting twice the speed.</p>
+<p> </p>
 <table class="align-center" style="border-collapse: collapse; width: 560px; height: 350px; border-style: none;" border="0">
 <tbody>
 <tr style="height: 76px;">
@@ -122,8 +129,10 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/AIFlanker.gif" alt="" width="600" height="349"></figure>
+<p>The Flanker role is to flank the player while remaining undetected. It will move behind cover, using stealth and evasion to approach the target from an unexpected angle. The goal is to surprise and outmaneuver the target.<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/9/FlankerHealing.gif" alt="" width="600" height="349"></figure>
+<p>Unlike the Decoy and Leader AI agents, the Flanker will not receive direct healing support from the Medic. Instead, the Flanker AI has been designed with a self-preservation protocol - when its health drops below 35%, it will automatically move to the nearest available cover and begin administering self-healing.</p>
+<p>This design choice was inspired by the stealth mechanic from game call Metal Gear Solid 3, where the player must rely on their own resourcefulness and ability to find safe locations to recover when injured, rather than depending on a dedicated medic. The Flanker AI embodies this same principle, prioritizing mobility and self-sufficiency over team-based healing.</p>
             ]]>
         </content>
     </entry>
