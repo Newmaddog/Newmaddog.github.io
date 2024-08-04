@@ -3,7 +3,7 @@
     <title>GameDev</title>
     <link href="https://newmaddog.github.io/feed.xml" rel="self" />
     <link href="https://newmaddog.github.io" />
-    <updated>2024-04-18T01:29:43+02:00</updated>
+    <updated>2024-08-04T13:45:29+02:00</updated>
     <author>
         <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
     </author>
@@ -43,7 +43,7 @@
 <p><span class="md svelte-ftv0x7 chatbot">I implemented a door system using PhysX. The door has two different states. Normally, the door is in a non-destructible state. However, when the player dashes through the door or shoots it, the door switches to a destructible state. In the destructible state, the door breaks apart into 20 individual pieces, and the physics simulation is played out on those pieces.</span></p>
 <h2 class="align-center">Script</h2>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/10/ScriptTest.gif" alt="" width="800" height="450"></figure>
-<p> </p>
+<p>Work with making some Script to our engine it can communicate with scene and could make some impact to the scene. The system use Imgui so it could display a connect some nodes with each other<br>Develop a script to integrate seamlessly with our engine, enabling effective communication with scenes and facilitating impactful changes within them. Our system utilizes Imgui, offering the capability to visually represent nodes and establish connections between them.<br><br>Enhance our engine by crafting a script that enables dynamic interaction with scenes, empowering users to manipulate and influence various elements seamlessly. Leveraging Imgui's visualization capabilities, the script will facilitate the creation, organization, and connection of nodes within the scene, fostering a more intuitive and efficient workflow.</p>
             ]]>
         </content>
     </entry>
@@ -137,32 +137,44 @@
         </content>
     </entry>
     <entry>
-        <title>Project 8 : Coming soon</title>
+        <title>Project 8 : Power To The Valley</title>
         <author>
             <name>Erico Leonardo Alexander Pizarro Gutierrez</name>
         </author>
         <link href="https://newmaddog.github.io/project.html"/>
         <id>https://newmaddog.github.io/project.html</id>
-        <media:content url="https://newmaddog.github.io/media/posts/8/ComingSoon-2.png" medium="image" />
+        <media:content url="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-28-145306.png" medium="image" />
 
         <updated>2024-04-09T19:07:58+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://newmaddog.github.io/media/posts/8/ComingSoon-2.png" alt="" />
-                    Summary
+                        <img src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-28-145306.png" alt="" />
+                    Summary The game concept draws from Pacific Drive, centering on vehicular exploration&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://newmaddog.github.io/media/posts/8/ComingSoon-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-28-145306.png" class="type:primaryImage" alt="" /></p>
                 <h2 id="summary" class="align-center">Summary</h2>
-<p> </p>
-<figure class="post__image post__image--center" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/ComingSoon.png" alt="" width="1000" height="483" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/ComingSoon-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/ComingSoon-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/ComingSoon-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/ComingSoon-lg.png 1024w"></figure>
+<p>The game concept draws from Pacific Drive, centering on vehicular exploration in an expansive world. Players navigate the environment in their adaptable car, encountering a knowledgeable mechanic early in their journey. This mechanic serves as a guide, introducing the player to the game's progression system. The mechanic explains how gathering scrap and other resources scattered throughout the landscape is crucial for advancement. These materials are essential for upgrading the player's vehicle, allowing access to new, previously restricted areas. The gameplay loop integrates exploration, resource collection, and vehicle enhancement, creating a compelling experience that motivates players to uncover the world's mysteries and progress through the story.</p>
+<figure class="post__image post__image--center" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/HighresScreenshot00010-5.png" alt="" width="1920" height="997" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/HighresScreenshot00010-5-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/HighresScreenshot00010-5-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/HighresScreenshot00010-5-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/HighresScreenshot00010-5-lg.png 1024w"></figure>
 <figcaption ></figcaption>
 </figure>
+<h1 class="align-center">Details</h1>
+<p>For this project, we chose to use Unreal Engine 5 with AngelScript. As programmers, we were relatively new to this engine, so we took our time learning it while simultaneously familiarizing ourselves with AngelScript.</p>
 <h2 id="contribution" class="align-center">Contribution</h2>
-<p> </p>
-<p> </p>
+<h3 class="align-center">PostMaster</h3>
+<figure class="post__image post__image--full"><img  src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-29-150415.png" alt="" width="1440" height="674" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150415-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150415-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150415-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150415-lg.png 1024w"></figure><figure class="post__image post__image--right"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-29-150425.png" alt="" width="213" height="267" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150425-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150425-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150425-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150425-lg.png 1024w"></figure>One of my collaborations involved creating PostMaster in Unreal Engine 5 using AngelScript. The approach I took was to create an empty actor called ActorPostMaster. Within this actor, I also created a component named PostMasterComponent. This component maintained a list of all actors that had an EventComponent. With these three elements in place, we could implement events where, if something happened, we could call an actor to react to its specific event.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-29-150442.png" alt="" width="1719" height="358" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150442-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150442-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150442-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150442-lg.png 1024w"></figure>
+<p>This section demonstrates the implementation of the PostMaster system and the process of registering EventComponents with the PostMasterComponent. As shown in the image.<br><br><br></p>
+<h3 class="align-center">NPC</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-29-150143.png" alt="" width="794" height="244" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150143-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150143-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150143-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150143-lg.png 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-29-150127-2.png" alt="" width="498" height="449" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150127-2-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150127-2-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150127-2-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150127-2-lg.png 1024w"></figure>
+<p>I also implemented NPC to the game, combining UE5 and AngelScript. I use UE5 to create path points for the NPC to walk to. I use the settings in UE5 to visualize their locations, and since these path points are local, I transform them to world positions within the AngelScript.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-29-150206.png" alt="" width="468" height="302" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150206-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150206-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150206-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150206-lg.png 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-29-150246.png" alt="" width="684" height="243" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150246-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150246-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150246-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150246-lg.png 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/8/Skaermbild-2024-07-29-150255-2.png" alt="" width="427" height="242" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150255-2-xs.png 300w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150255-2-sm.png 480w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150255-2-md.png 768w ,https://newmaddog.github.io/media/posts/8/responsive/Skaermbild-2024-07-29-150255-2-lg.png 1024w"></figure>
+<p>We also implemented animations for the NPCs. I set it up so that a specific animation plays depending on the NPC's position. This allows the designer to choose which animation plays in each location. So, when the NPC finishes walking, it plays the animation that was chosen.</p>
             ]]>
         </content>
     </entry>
@@ -298,11 +310,13 @@
 <p class="align-center"><strong><em><span style="text-decoration: underline;">Game Project3: Magical Girl Delivery Service</span></em></strong></p>
 <figure class="post__image post__image--center"><a href="https://www.youtube.com/watch?v=TWCVsLfUN20" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/2/SP4png-2.png" alt="" width="311" height="175" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/2/responsive/SP4png-2-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/SP4png-2-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/SP4png-2-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/SP4png-2-lg.png 1024w"></figure></a></p>
 <figure class="post__image post__image--center"><strong><em><span style="text-decoration: underline;">Game Project4: Aeon<br><br><a href="https://www.youtube.com/watch?v=s16y1qExd9Q" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/2/Larmet-3-2.png" alt="" width="311" height="172" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/2/responsive/Larmet-3-2-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/Larmet-3-2-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/Larmet-3-2-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/Larmet-3-2-lg.png 1024w"></figure></a></span></em></strong></p>
-<p class="align-center"><span style="text-decoration: underline;"><strong><em><a href="https://newmaddog.github.io/project5-larmet-gick-1941.html">Game Project5: Larmet Gick 1941</a><a href="https://newmaddog.github.io/project5-larmet-gick-1941.html"></a></em></strong></span></p>
+<p class="align-center"><span style="text-decoration: underline;"><strong><em><a href="https://newmaddog.github.io/project5-larmet-gick-1941.html">Game Project 5: Larmet Gick 1941</a><a href="https://newmaddog.github.io/project5-larmet-gick-1941.html"></a></em></strong></span></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/2/SP6-2.png" alt="" width="311" height="164" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/2/responsive/SP6-2-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/SP6-2-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/SP6-2-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/SP6-2-lg.png 1024w"></figure>
-<p class="align-center"><a href="https://newmaddog.github.io/project-6-eternal-night-3.html"></a><a href="https://newmaddog.github.io/project-6-eternal-night-3.html"><span style="text-decoration: underline;"><strong><em>Game Project6: Eternal Night</em></strong></span><span style="text-align: right; color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span></a></p>
+<p class="align-center"><a href="https://newmaddog.github.io/project-6-eternal-night-3.html"></a><a href="https://newmaddog.github.io/project-6-eternal-night-3.html"></a><a href="https://newmaddog.github.io/project-6-eternal-night-3.html"><span style="text-decoration: underline;"><strong><em>Game Project6: Eternal Night</em></strong></span><span style="text-align: right; color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span></a></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/2/SP7-2.png" alt="" width="311" height="163" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://newmaddog.github.io/media/posts/2/responsive/SP7-2-xs.png 300w ,https://newmaddog.github.io/media/posts/2/responsive/SP7-2-sm.png 480w ,https://newmaddog.github.io/media/posts/2/responsive/SP7-2-md.png 768w ,https://newmaddog.github.io/media/posts/2/responsive/SP7-2-lg.png 1024w"></figure>
-<p class="align-center"><span style="text-decoration: underline;"><strong><em><a href="https://newmaddog.github.io/project-7-snabb-grabb.html">Project7: Snabb Grabb</a></em></strong></span></p>
+<p class="align-center"><span style="text-decoration: underline;"><strong><em><a href="https://newmaddog.github.io/project-7-snabb-grabb.html">Game Project 7: Snabb Grabb</a></em></strong></span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://newmaddog.github.io/media/posts/2/screen-capture-ezgif.com-optimize.gif" alt="" width="311" height="175"></figure>
+<p class="align-center"><span style="text-decoration: underline;"><em><strong><a href="https://newmaddog.github.io/project.html">Game Project 8 : Power To The Valley</a></strong></em></span></p>
             ]]>
         </content>
     </entry>
